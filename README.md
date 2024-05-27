@@ -15,7 +15,7 @@ A README.md file (this file) with a brief description of each project.
     <div align="center">
   <br />
     <a href="https://github.com/Anirudh-2903/My-Portfolio-Website" target="_blank">
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/hero.png" alt="Project Banner">
     </a>
   <br />
 
@@ -30,7 +30,7 @@ A README.md file (this file) with a brief description of each project.
     <div align="center">
   <br />
     <a href="https://github.com/Anirudh-2903/Orchestrate" target="_blank">
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/Orchestrate/homepage.png" alt="Project Banner">
     </a>
   <br />
 
@@ -45,7 +45,7 @@ A README.md file (this file) with a brief description of each project.
     <div align="center">
   <br />
     <a href="https://github.com/Anirudh-2903/synapse-hub" target="_blank">
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/Synapse%20Hub/homepage.png" alt="Project Banner">
     </a>
   <br />
 
@@ -61,7 +61,7 @@ A README.md file (this file) with a brief description of each project.
     <div align="center">
   <br />
     <a href="https://github.com/Anirudh-2903/nexus" target="_blank">
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/Nexus/homepage.png" alt="Project Banner">
     </a>
   <br />
 
@@ -76,7 +76,7 @@ A README.md file (this file) with a brief description of each project.
     <div align="center">
   <br />
     <a href="https://github.com/Anirudh-2903/dreamscape" target="_blank">
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/Dreamscape/homepage.jpeg" alt="Project Banner" width="40%" height="40%">
     </a>
   <br />
 
