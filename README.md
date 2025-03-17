@@ -86,6 +86,22 @@ A README.md file (this file) with a brief description of each project.
     <img src="https://img.shields.io/badge/NativeWind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="nativewind" />
     <br />
   </div>
+
+  - HealthVita
+
+    <div align="center">
+  <br />
+    <a href="https://github.com/Anirudh-2903/healthvita" target="_blank">
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/HealthVita/homepage.png" alt="Project Banner">
+    </a>
+  <br />
+
+  <div>
+    <img src="https://img.shields.io/badge/-Next_JS_14-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+  </div>
   
 **Finding More Information**
 
